@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "copper-text")(type "KiCad")(uri "${KIPRJMOD}/libraries/copper-text.pretty")(options "")(descr ""))
+  (lib (name "connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/connectors.pretty")(options "")(descr ""))
+  (lib (name "potentiometer")(type "KiCad")(uri "${KIPRJMOD}/libraries/potentiometer.pretty")(options "")(descr ""))
+  (lib (name "wires")(type "KiCad")(uri "${KIPRJMOD}/libraries/wires.pretty")(options "")(descr ""))
+  (lib (name "transistors")(type "KiCad")(uri "${KIPRJMOD}/libraries/transistors.pretty")(options "")(descr ""))
+  (lib (name "switches")(type "KiCad")(uri "${KIPRJMOD}/libraries/switches.pretty")(options "")(descr ""))
+)
