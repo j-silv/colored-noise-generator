@@ -5,7 +5,7 @@ A white, pink, and brown noise analog signal generator.
 ![KiCad schematic for the project](https://cdn.buttercms.com/kGKzI2qpQcKvaxIa1WAA)
 
 # PCB
-![PCB for the project (top: 3D views in KiCad, bottom: fabricated board)](https://cdn.buttercms.com/dOVtP8cRTiwmuOwW7ROi)
+![PCB for the project (top: 3D views in KiCad, bottom: fabricated board)](https://cdn.buttercms.com/a2mUpm2R29z8X6uNjmPA)
 A single-layer board, DIY-fabricated at my university. Process included copper etching in vertical iron chloride (FeCl3) bath with manual agitation. Adhered to design rules (minimum trace widths, clearances, etc.) as specified by the fabrication technique.
 
 # Simulation
